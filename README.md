@@ -1,2 +1,2 @@
 # Datathon
-all the docs used in the Datathon Real State Challenge Cajamar
+All the docs used in the Datathon Real State Challenge Cajamar
